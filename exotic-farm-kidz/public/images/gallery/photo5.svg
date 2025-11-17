@@ -1,0 +1,52 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#F3E5F5"/>
+  
+  <!-- Ground -->
+  <rect x="0" y="230" width="400" height="70" fill="#90EE90"/>
+  
+  <!-- Barn in background -->
+  <path d="M280 180 L320 150 L360 180 L360 230 L280 230 Z" fill="#D32F2F" opacity="0.7"/>
+  <rect x="305" y="200" width="30" height="30" fill="#8D6E63"/>
+  
+  <!-- Child petting sheep -->
+  <g transform="translate(150, 180)">
+    <circle cx="0" cy="0" r="20" fill="#FFCCBC"/>
+    <rect x="-14" y="20" width="28" height="40" fill="#9C27B0"/>
+    <rect x="-16" y="60" width="12" height="25" fill="#5D4037"/>
+    <rect x="4" y="60" width="12" height="25" fill="#5D4037"/>
+    <circle cx="-6" cy="-3" r="3" fill="#5D4037"/>
+    <circle cx="6" cy="-3" r="3" fill="#5D4037"/>
+    <path d="M-7 8 Q0 12 7 8" stroke="#5D4037" stroke-width="2" fill="none"/>
+    <path d="M-25 -12 Q0 -28 25 -12" fill="#FFD700"/>
+    <!-- Arm reaching to sheep -->
+    <line x1="14" y1="30" x2="35" y2="35" stroke="#FFCCBC" stroke-width="10"/>
+    <circle cx="35" cy="35" r="7" fill="#FFCCBC"/>
+  </g>
+  
+  <!-- Sheep -->
+  <g transform="translate(220, 210)">
+    <ellipse cx="0" cy="0" rx="35" ry="25" fill="#F5F5F5"/>
+    <circle cx="-10" cy="-5" r="12" fill="#EEEEEE"/>
+    <circle cx="10" cy="-5" r="12" fill="#EEEEEE"/>
+    <circle cx="0" cy="10" r="11" fill="#EEEEEE"/>
+    <circle cx="30" cy="-10" r="14" fill="#F5F5F5"/>
+    <circle cx="32" cy="-12" r="3" fill="black"/>
+    <circle cx="28" cy="-12" r="3" fill="black"/>
+    <ellipse cx="30" cy="-5" rx="4" ry="3" fill="#5D4037"/>
+    <rect x="-25" y="22" width="8" height="14" fill="#5D4037"/>
+    <rect x="-10" y="22" width="8" height="14" fill="#5D4037"/>
+    <rect x="5" y="22" width="8" height="14" fill="#5D4037"/>
+    <rect x="20" y="22" width="8" height="14" fill="#5D4037"/>
+  </g>
+  
+  <!-- Flowers -->
+  <circle cx="80" cy="250" r="8" fill="#FF9800"/>
+  <circle cx="120" cy="255" r="6" fill="#E91E63"/>
+  <circle cx="340" cy="252" r="7" fill="#FFC107"/>
+  
+  <!-- Text -->
+  <rect x="100" y="20" width="200" height="40" rx="8" fill="white" opacity="0.9"/>
+  <text x="200" y="47" font-family="Arial" font-size="18" font-weight="bold" fill="#4A3F35" text-anchor="middle">
+    Petting the Animals
+  </text>
+</svg>
