@@ -1,0 +1,26 @@
+{
+  "name": "exotic-farm-kidz-academy",
+  "version": "1.0.0",
+  "description": "Beautiful website for Exotic Farm Kidz Academy showcasing educational programs and water park facilities",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'",
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "education",
+    "kids-academy",
+    "farm-learning",
+    "water-park",
+    "responsive",
+    "html5",
+    "css3",
+    "javascript"
+  ],
+  "author": "Exotic Farm Kidz Academy",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
